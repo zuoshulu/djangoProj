@@ -1,0 +1,4 @@
+env/
+venv/
+djangoRestAPI/__pycache__
+djangoRestAPI/quickstart/__pycache__
